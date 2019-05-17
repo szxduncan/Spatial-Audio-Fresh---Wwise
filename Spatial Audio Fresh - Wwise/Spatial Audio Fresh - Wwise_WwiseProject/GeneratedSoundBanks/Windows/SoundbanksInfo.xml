@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3347593577" Name="Play_Bird_Full" ObjectPath="\Events\Default Work Unit\Play_Bird_Full" MaxAttenuation="100.000000" DurationType="Infinite"/>
+				<Event Id="3265132539" Name="Play_Cricket_1" ObjectPath="\Events\Default Work Unit\Play_Cricket_1" DurationType="Infinite"/>
+				<Event Id="3265132536" Name="Play_Cricket_2" ObjectPath="\Events\Default Work Unit\Play_Cricket_2" DurationType="OneShot" DurationMin="35.542034" DurationMax="38.247349"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="7259580" Language="SFX">
+					<ShortName>Bird_Blackbird-135.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-135_10C4C929.wem</Path>
+				</File>
+				<File Id="17405859" Language="SFX">
+					<ShortName>Bird_Blackbird-105.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-105_10C4C929.wem</Path>
+				</File>
+				<File Id="73689613" Language="SFX">
+					<ShortName>Bird_Blackbird-111.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-111_10C4C929.wem</Path>
+				</File>
+				<File Id="94339011" Language="SFX">
+					<ShortName>Bird_Blackbird-113.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-113_10C4C929.wem</Path>
+				</File>
+				<File Id="207283634" Language="SFX">
+					<ShortName>Bird_Blackbird_03.wav</ShortName>
+					<Path>SFX\Bird_Blackbird_03_10C4C929.wem</Path>
+				</File>
+				<File Id="214897680" Language="SFX">
+					<ShortName>Bird_Blackbird-12.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-12_10C4C929.wem</Path>
+				</File>
+				<File Id="453016133" Language="SFX">
+					<ShortName>Cricket_Close_2.wav</ShortName>
+					<Path>SFX\Cricket_Close_2_10C4C929.wem</Path>
+				</File>
+				<File Id="479225978" Language="SFX">
+					<ShortName>Bird_Blackbird-132.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-132_10C4C929.wem</Path>
+				</File>
+				<File Id="522853715" Language="SFX">
+					<ShortName>Bird_Blackbird-10.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-10_10C4C929.wem</Path>
+				</File>
+				<File Id="567865310" Language="SFX">
+					<ShortName>Bird_Blackbird-04.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-04_10C4C929.wem</Path>
+				</File>
+				<File Id="601206427" Language="SFX">
+					<ShortName>Bird_Blackbird_01.wav</ShortName>
+					<Path>SFX\Bird_Blackbird_01_10C4C929.wem</Path>
+				</File>
+				<File Id="616152438" Language="SFX">
+					<ShortName>Bird_Blackbird-16.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-16_10C4C929.wem</Path>
+				</File>
+				<File Id="676386851" Language="SFX">
+					<ShortName>Bird_Blackbird-99.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-99_10C4C929.wem</Path>
+				</File>
+				<File Id="779221303" Language="SFX">
+					<ShortName>Cricket_Close.wav</ShortName>
+					<Path>SFX\Cricket_Close_10C4C929.wem</Path>
+				</File>
+				<File Id="974222238" Language="SFX">
+					<ShortName>Bird_Blackbird-107.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-107_10C4C929.wem</Path>
+				</File>
+				<File Id="986699367" Language="SFX">
+					<ShortName>Bird_Blackbird_02.wav</ShortName>
+					<Path>SFX\Bird_Blackbird_02_10C4C929.wem</Path>
+				</File>
+				<File Id="1022342910" Language="SFX">
+					<ShortName>Bird_Blackbird-06.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-06_10C4C929.wem</Path>
+				</File>
+				<File Id="1028483969" Language="SFX">
+					<ShortName>Bird_Blackbird-14.wav</ShortName>
+					<Path>SFX\Bird_Blackbird-14_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

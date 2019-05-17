@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{BF781916-0C41-4306-ABF6-EACB0276368A}" SchemaVersion="94">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{BF781916-0C41-4306-ABF6-EACB0276368A}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{F90E33A1-7637-4081-B700-23D76F119B20}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Cricket_2" ID="{0A96F349-83A1-4130-BE3E-B7D55E7FAF4F}" WorkUnitID="{BF7DE42A-97C0-45E7-8977-C384040E2194}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Cricket_1" ID="{A562AF6D-34CF-436F-93E0-92C81261588A}" WorkUnitID="{BF7DE42A-97C0-45E7-8977-C384040E2194}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bird_Full" ID="{2F0E673E-4A3C-4FF7-9563-3BA04E67E790}" WorkUnitID="{BF7DE42A-97C0-45E7-8977-C384040E2194}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

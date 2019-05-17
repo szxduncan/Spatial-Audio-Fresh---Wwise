@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{BF7DE42A-97C0-45E7-8977-C384040E2194}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{BF7DE42A-97C0-45E7-8977-C384040E2194}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Bird_Full" ID="{2F0E673E-4A3C-4FF7-9563-3BA04E67E790}">
+					<ChildrenList>
+						<Action Name="" ID="{1FDD52D8-B5EB-403A-B46A-EA6B81FA2EDA}" ShortID="135652731">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Birds" ID="{CF811800-C22A-4AB6-8A7D-3DA9F7D81A9A}" WorkUnitID="{6E6EC306-8B8E-493A-932F-7D94171523E1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Cricket_1" ID="{A562AF6D-34CF-436F-93E0-92C81261588A}">
+					<ChildrenList>
+						<Action Name="" ID="{6B88C227-47FB-40B5-BF8F-6D4D7D7C63E7}" ShortID="432843236">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Cricket 1" ID="{B82A336D-D47A-4FA5-8025-A41CED5839F9}" WorkUnitID="{6E6EC306-8B8E-493A-932F-7D94171523E1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Cricket_2" ID="{0A96F349-83A1-4130-BE3E-B7D55E7FAF4F}">
+					<ChildrenList>
+						<Action Name="" ID="{69AD898A-0D14-42F8-A2C9-D03F49DF6D14}" ShortID="718067781">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Cricket 2" ID="{74EDB565-4160-4EB4-9C17-D2DCF3D05A2F}" WorkUnitID="{6E6EC306-8B8E-493A-932F-7D94171523E1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

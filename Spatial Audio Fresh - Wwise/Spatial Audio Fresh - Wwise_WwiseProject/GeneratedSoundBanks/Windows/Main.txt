@@ -1,0 +1,31 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3265132536	Play_Cricket_2			\Default Work Unit\Play_Cricket_2	
+	3265132539	Play_Cricket_1			\Default Work Unit\Play_Cricket_1	
+	3347593577	Play_Bird_Full			\Default Work Unit\Play_Bird_Full	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	189572531	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 3\Silence_01\Wwise Silence	
+	290499057	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 2\Silence_01\Wwise Silence	
+	416553138	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 4\Silence_01\Wwise Silence	
+	571570979	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 1\Silence\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	7259580	Bird_Blackbird-135	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-135_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 3\Bird_Blackbird-135		204992
+	17405859	Bird_Blackbird-105	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-105_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 1\Bird_Blackbird-105		58560
+	73689613	Bird_Blackbird-111	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-111_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 3\Bird_Blackbird-111		115776
+	94339011	Bird_Blackbird-113	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-113_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 3\Bird_Blackbird-113		155712
+	207283634	Bird_Blackbird_03	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 4\Bird_Blackbird_03		104168
+	214897680	Bird_Blackbird-12	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-12_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 2\Bird_Blackbird-12		164228
+	453016133	Cricket_Close_2	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Cricket_Close_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Cricket 2\Cricket_Close_2		3565222
+	479225978	Bird_Blackbird-132	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-132_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 3\Bird_Blackbird-132		60224
+	522853715	Bird_Blackbird-10	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 2\Bird_Blackbird-10		88152
+	567865310	Bird_Blackbird-04	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 4\Bird_Blackbird-04		108172
+	601206427	Bird_Blackbird_01	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 4\Bird_Blackbird_01		168000
+	616152438	Bird_Blackbird-16	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-16_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 4\Bird_Blackbird-16		31268
+	676386851	Bird_Blackbird-99	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-99_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 1\Bird_Blackbird-99		92480
+	779221303	Cricket_Close	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Cricket_Close_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Cricket 1\Cricket_Close		17099328
+	974222238	Bird_Blackbird-107	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-107_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 1\Bird_Blackbird-107		147264
+	986699367	Bird_Blackbird_02	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 4\Bird_Blackbird_02		141120
+	1022342910	Bird_Blackbird-06	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 2\Bird_Blackbird-06		276340
+	1028483969	Bird_Blackbird-14	C:\Users\szxun\Desktop\Games Unity\Spatial Audio Fresh - Wwise\Spatial Audio Fresh - Wwise_WwiseProject\.cache\Windows\SFX\Bird_Blackbird-14_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Animals\Birds\Birds 2\Bird_Blackbird-14		88152
+
